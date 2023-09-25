@@ -11270,3 +11270,16 @@ tfoot input {
 .svg-active {
     fill-opacity: 0.5 !important;
 }
+.circle-comment-user {
+	min-width: 30px;
+	width: 30px !important;
+	height: 30px !important;
+	border-radius: 50%;
+	background-color: white;
+	display: grid;
+	text-align: center;
+	font-size: 13px;
+	align-items: center;
+	color: #343A40;
+	font-weight: bold;
+}
