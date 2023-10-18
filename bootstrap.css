@@ -1751,7 +1751,7 @@ pre {
 .table-info,
 .table-info > th,
 .table-info > td {
-    background-color: #BCEAF1;
+    background-color: #BCEAF1 !important;
 }
 
     .table-info th,
@@ -1762,12 +1762,12 @@ pre {
     }
 
 .table-hover .table-info:hover {
-    background-color: #B1E8F1;
+    background-color: #B1E8F1 !important;
 }
 
     .table-hover .table-info:hover > td,
     .table-hover .table-info:hover > th {
-        background-color: #B1E8F1;
+        background-color: #B1E8F1 !important;
     }
 
 .table-warning,
